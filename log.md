@@ -11,3 +11,9 @@
 **Today's Progress**: I attempted two challenges in codewars, I managed to solve one
 
 **Thoughts:** I think I have to improve in this area
+
+### Day 3: January 12, 2023
+
+**Today's Progress**: I learnt data structures in python, Arrays and Linked Lists
+
+**Thoughts:** This is just the first category of data structures, I have to learnt also non-linear data structures
