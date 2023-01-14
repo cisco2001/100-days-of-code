@@ -17,3 +17,8 @@
 **Today's Progress**: I learnt data structures in python, Arrays and Linked Lists
 
 **Thoughts:** This is just the first category of data structures, I have to learnt also non-linear data structures
+
+### Day 4: January 14, 2023
+**Today's Progress**: I learnt regular expressions and how to implement linked lists in python
+
+**Thoughts:** I have to maintain my focus and build projects
