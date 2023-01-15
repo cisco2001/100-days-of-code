@@ -22,3 +22,8 @@
 **Today's Progress**: I learnt regular expressions and how to implement linked lists in python
 
 **Thoughts:** I have to maintain my focus and build projects
+
+### Day 5: January 15, 2023
+**Today's Progress**: I learnt about dictionaries, lambda, filter and reduce
+
+**Thoughts:** I have to spend my time wisely
