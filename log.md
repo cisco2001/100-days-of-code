@@ -27,3 +27,8 @@
 **Today's Progress**: I learnt about dictionaries, lambda, filter and reduce
 
 **Thoughts:** I have to spend my time wisely
+
+### Day 6: January 16, 2023
+**Today's Progress**: I was not able to commit 6 hours
+
+**Thoughts Progress**: I must plan my timetable to organize my daily activities
