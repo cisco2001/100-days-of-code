@@ -32,3 +32,8 @@
 **Today's Progress**: I was not able to commit 6 hours
 
 **Thoughts Progress**: I must plan my timetable to organize my daily activities
+
+### Day 7: January 17, 2023
+**Today's Progress**: I learnt about sockets and Exception
+
+**Thoughts**: I must revise how to work with sockets and workings of http protocol then I should continue with another part in Django course
